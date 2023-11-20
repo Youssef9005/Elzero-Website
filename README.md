@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2 align="center">Gaming Responsive Website</h2>
+  <h2 align="center">Elzero Website</h2>
   <a href="https://youssef9005.github.io/Elzero-Website/"><strong>➥ Live Demo</strong></a>
 </div>
 
